@@ -14,8 +14,8 @@
 - https://www.mangareader.tv/
 - https://www.mangatown.com/
 - https://mangadex.org/
-- https://mangakakalot.com/
-- https://manganato.com/
+- https://mangabuddyy.net/
+- https://mangabuddyy.org/
 
 ## Getting Started
 
@@ -93,8 +93,8 @@ Usage:
 | https://mangadex.org/       | &#x2713; | &#x2713; | &#x2717; |
 | https://readcomiconline.li/ | &#x2713; | &#x2717; | &#x2713; |
 | https://www.mangareader.tv/ | &#x2713; | &#x2717; | &#x2713; |
-| https://www.mangakalot.com/ | &#x2713; | &#x2717; | &#x2713; |
-| https://www.manganato.com/  | &#x2713; | &#x2717; | &#x2713; |
+| https://www.mangabuddyy.net/ | &#x2713; | &#x2717; | &#x2713; |
+| https://www.mangabuddyy.org/  | &#x2713; | &#x2717; | &#x2713; |
 
 ### Checking for mangas using a Raspberry Pi
 
