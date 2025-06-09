@@ -16,6 +16,7 @@
 - https://mangadex.org/
 - https://mangabuddyy.net/
 - https://mangabuddyy.org/
+- https://animes.fan/
 
 ## Getting Started
 
@@ -93,8 +94,8 @@ Usage:
 | https://mangadex.org/       | &#x2713; | &#x2713; | &#x2717; |
 | https://readcomiconline.li/ | &#x2713; | &#x2717; | &#x2713; |
 | https://www.mangareader.tv/ | &#x2713; | &#x2717; | &#x2713; |
-| https://www.mangabuddyy.net/ | &#x2713; | &#x2717; | &#x2713; |
-| https://www.mangabuddyy.org/  | &#x2713; | &#x2717; | &#x2713; |
+| https://bbato.co/ | &#x2713; | &#x2717; | &#x2713; |
+| https://animes.fan/  | &#x2713; | &#x2717; | &#x2713; |
 
 ### Checking for mangas using a Raspberry Pi
 
